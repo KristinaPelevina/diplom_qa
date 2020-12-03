@@ -33,3 +33,5 @@
 5. Запустить тестируемое приложение командой с БД PostgreSQL `java -Dspring.datasource.url=jdbc:postgresql://192.168.99.100:5432/app -jar aqa-shop.jar`
 6. Запустить тесты командой `gradlew test -Ddb.url=jdbc:postgresql://192.168.99.100:5432/app`
 7. Сгенерировать отчеты Allure командой `gradlew allureReport`
+
+После окончания работы необходимо завершить работу приложения командой `docker-compose down`
