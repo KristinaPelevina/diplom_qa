@@ -15,6 +15,8 @@
 
 На скриншотах ниже представленны отчеты Allure по итогам тестирования:
 
+![mysqlallure](https://github.com/KristinaPelevina/diplom_qa/blob/master/img/allure.jpg)
+
 
 #### **Общие рекомендации:**
 
